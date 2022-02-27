@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter presented by a member of the Commons House of Parliament; concerning divers passages at Portsmouth. Read in the said House, the 17th day of August, 1642. 17. Aug. 1642. Ordered that the said letter shall be forthwith printed and published: H. Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80467</idno>
+            <idno type="STC">Wing C6132</idno>
+            <idno type="STC">Thomason E112_35</idno>
+            <idno type="STC">ESTC R20175</idno>
+            <idno type="EEBO-CITATION">99862250</idno>
+            <idno type="PROQUEST">99862250</idno>
+            <idno type="VID">114403</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80467)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114403)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E112[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter presented by a member of the Commons House of Parliament; concerning divers passages at Portsmouth. Read in the said House, the 17th day of August, 1642. 17. Aug. 1642. Ordered that the said letter shall be forthwith printed and published: H. Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by L.N. and I.F. for Edward Husbands and John Franck, and are to be sold at their shops in the middle Temple, and the Kings-head in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 19. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Portsmouth (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114403:1" rendition="simple:additions"/>
+            <p>The Copy of a LETTER Preſented BY A MEMBER OF THE COMMONS Houſe of Parliament; CONCERNING DIVERS PASSAGES AT Portſmouth.</p>
+            <p>Read in the ſaid Houſe, the 17th day of Auguſt, 1642.</p>
+            <q>
+               <p>17. <hi>Aug.</hi> 1642.</p>
+               <p>ORdered that the ſaid Letter ſhall be forthwith Printed and publiſhed:</p>
+               <bibl>
+                  <hi>H. Elſynge, Cler. Parl. D. Com.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>L.N.</hi> and <hi>I.F.</hi> for <hi>Edward Husbands</hi> and <hi>John Franck,</hi> and are to be ſold at their ſhops in the middle Tem<g ref="char:EOLhyphen"/>ple, and the Kings-head in Fleetſtreet. <hi>Auguſt</hi> 19. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114403:2"/>
+            <pb n="3" facs="tcp:114403:2"/>
+            <head>The Copy of a LETTER From PORTSMOVTH.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Sent you a Letter by the foot-poſt, which I hope came to your hands on laſt Saturday, wherein was con<g ref="char:EOLhyphen"/>tained all or moſt part of <hi>Ports<g ref="char:EOLhyphen"/>mouth</hi> news, and now I herein ſend you all or moſt of what hath hap<g ref="char:EOLhyphen"/>pened ſince thereabouts: The Co<g ref="char:EOLhyphen"/>lonell having cauſed the Bridge called <hi>Portbridge</hi> 3 miles from <hi>Portsmouth</hi> entring into the Iſle of <hi>Port<g ref="char:EOLhyphen"/>ſea,</hi> (in which <hi>Portsmouth</hi> ſtands) to be made ſecure with a frame of timber work very ſtrong, to hinder all from paſſing that way but whom he pleaſed, and having built a little Fort or Bulwork of earth a little within that Bridge, and planted four pieces of Ord<g ref="char:EOLhyphen"/>nance there to defend the Bridge, and having placed 10 or 12 horſemen to watch there day and night, did on Wedneſday laſt carry back to <hi>Portſmouth</hi> 3 of
+<pb n="4" facs="tcp:114403:3"/>
+his Ordnance, and the fourth alſo about a mile, but the wheels broke, ſo that he was fain to leave that piece in the high way, all which he did for feare the Troopers which came from <hi>London,</hi> would by force or ſome ſtratagem get them away, and then make uſe of them to offend the Colonell: yet when the pieces were gone, he ſtill kept horſemen day and night at the Fort, and the timber work upon the Bridge, to ſecure it as formerly, and all Wedneſday Thurſday &amp; Friday laſt, he cauſed divers hundreds of cattell, ſheep, and ſwyne, in the fruitfull Iſle of <hi>Port<g ref="char:EOLhyphen"/>ſea</hi> to be brought into <hi>Portsmouth</hi> there, whether they were fat or lean, to be all kill'd and ſalted up, and cauſed every houſe in that Iſle to be ſearched and all manner of proviſions to be taken away from the owners, as corn, meal, flower, beefe, bacon, bread, butter, cheeſe, eggs, and all their poultry and ducks, not leaving half loaves of bread, nor pieces of bread, nor pieces of cheeſe, and drove away all cat<g ref="char:EOLhyphen"/>tell whatſoever, to the great terrour of all the people, eſpecially women and children, forcing poor and rich to come away, and beg about for bread to keep them alive, and he made ſuch men as he could find, help to drive their own cattell and carry their own proviſions into <hi>Portſmouth,</hi> and then kept many of them there by force; but the Kings Ships as ſoone as they heard of theſe cruell intentions, landed ſome men at the Eaſt ſide of the Iſland, and two pieces of Ordnance, and thereby kept off the horſemen, whilſt the ſhip-men got over many women and children in<g ref="char:EOLhyphen"/>to <hi>Hayling</hi> Iſland, and about 100. cattell, and about
+<pb n="5" facs="tcp:114403:3"/>
+200. ſheep, they got ropes over the cattels heads, &amp; made them ſwim over after boats: Upon Friday laſt in the afternoon, I went purpoſely to <hi>Portſdown</hi> to ſee and heare what I could, at which place all this was credibly told me, and I then went as neer the Fort as I durſt, which was dangerous to be fetcht in by the horſemen which guarded it, in regard all the Troopers were then in <hi>Havant</hi> Town &amp; in <hi>South<g ref="char:EOLhyphen"/>wick,</hi> 4 miles diſtant where they lay, and came not a<g ref="char:EOLhyphen"/>broad all that afternoon, by reaſon of the extraordi<g ref="char:EOLhyphen"/>nary rain which happened that afternoon: if the wea<g ref="char:EOLhyphen"/>ther had been fair, as I was told in the preſence of the Councell of war at <hi>Southwick,</hi> the Troopers had attempted to have taken the Fort that afternoon, and then I had ſeen it: but in the night time, that night ſome Troopers went down to the Fort, and were troubled to get down the timber-work, it being ſo ſtrong, and whilſt they were getting it down the horſemen rode all away from the Fort, and the Troo<g ref="char:EOLhyphen"/>pers after them, but could take but one of the men, and two horſes, ſo as now the Troopers have the fort, and have ſet there four pieces of Ordnance, and block'd up that paſſage, ſo as the Colonell and his company are all within the walls of <hi>Portſmouth</hi> as it were in a pound, not daring to encounter the Troo<g ref="char:EOLhyphen"/>pers; Although they laſt Saturday went almoſt to the Town Gates, to try if any dared to come forth to them, the Colonell ſent out two pieces of Ord<g ref="char:EOLhyphen"/>nance charged with muſquet bullets, and two gun<g ref="char:EOLhyphen"/>ners to guard the piece with the broken wheel, that the Troopers might not get it away: But on Satur<g ref="char:EOLhyphen"/>day
+<pb n="6" facs="tcp:114403:4"/>
+in the afternoon, a valiant Trooper alone adventured to go neer them, and cunningly got on the back ſide of the men, who could not ſuddenly turn about both or one of the pieces, ſo as the Trooper ſhot off his Carbine at one of them with a brace of bullets, and ſpoil'd his running away, for he fell down dead, I be<g ref="char:EOLhyphen"/>lieve that this day they will attempt to take a Caſtle neer <hi>Portſmouth</hi> called <hi>Southſea</hi> Caſtle, half a mile from <hi>Portſmouth,</hi> and make no queſtion to take it, and then to make uſe of it to ſhoot into <hi>Portſmouth.</hi> Maſter <hi>Lukener,</hi> Maſter <hi>Bellingham, Christopher Bird,</hi> and others of the County of <hi>Suffolk,</hi> I believe wiſh they were at <hi>Chichester</hi> again, every night ſome of <hi>Portſmouth</hi> ſouldiers and gunners get away down the walls and come to the Troopers, utterly diſli<g ref="char:EOLhyphen"/>king the Colonells cauſe and uſage of the Inhabi<g ref="char:EOLhyphen"/>tants of <hi>Portſea</hi> Iſland, by taking away their cattell and proviſions, &amp;c. And yet ſcorn to be thought cowards, for they offer to go in the forefront, and in moſt danger with the Troopers in any ſervice whatſoever. Since <hi>Chichester</hi> men came to <hi>Portſmouth</hi> there hath been harder uſage of people by the Colo<g ref="char:EOLhyphen"/>nell and his company then before, and ſome think by their or ſome of their advices, a yong woman in <hi>Portſmouth</hi> being great with child, who got leave to come laſt Friday out of <hi>Portſmouth,</hi> and whom I met by the way, reports; that one of <hi>Chichester</hi> men, but not Mr. Recorder <hi>Lukener,</hi> nor Mr. <hi>Bellingham,</hi> ſaid to her that he would not have her go, becauſe if the Town ſhould be ſo put to it, as to want victualls, then that in her belly would eat as ſweet
+<pb n="7" facs="tcp:114403:4"/>
+as a yong ſucking pig, by which we may gueſſe that they are inclinable to ſhew as much mercie as the Rebells in <hi>Ireland,</hi> but I hope that God will pre<g ref="char:EOLhyphen"/>vent all their wicked purpoſes. The Troopers I be<g ref="char:EOLhyphen"/>leeve reſolve to baniſh all fear of danger, and within fewer dayes, though with loſſe of men, to adventure to ſcale the Walls, and take the Town, and prevent the doing of any more miſchief by them in the Town to the poor Inhabitants, or any others: there is no great ſtrength in the town of men, &amp; but 80 or 90 horſes, there being about 240. horſes, Troopers, and 500 foot, by the Parliaments directions; but the Town is extraordinarily well provided with pow<g ref="char:EOLhyphen"/>der, and ſhot, and dyet, by reaſon of the fetching in ſo much from the Inhabitants, there was a horſe and a man taken on Saturday laſt about five of the clock at <hi>Havant,</hi> going to <hi>Portſmouth</hi> with a ſuit of cloaths for one Mr. <hi>Bellingham</hi> in <hi>Portſmouth,</hi> but not <hi>Bel<g ref="char:EOLhyphen"/>lingham</hi> of <hi>Chicheſter,</hi> yet his kinſman, in which cloaths, between the outſide and inſide were ſowed up 10 Letters; and about that time our Troopers took a man, and a horſe, and ſeverall Letters going out of <hi>Portſmouth</hi> from the Lord <hi>Wentworth</hi> the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and divers other Letters are taken, ſo as the bottome of their plots are I hope diſcovered: This morning one of the Iſle of <hi>Wight</hi> was with me, and told me, All their people there ſtand right for the King and Parliament, except the Captains of their Caſtles, and ſome of the Gentry; one Sir <hi>Robert Dillington</hi> there would have ſent over much corn to <hi>Portſmouth,</hi> but was prevented by Maſter <hi>Bunckley</hi> a Juſtice of
+<pb n="8" facs="tcp:114403:5"/>
+peace there, who ſtands very right for the King and Parliament; there is in the Iſland much fear of the Captains of the Caſtles, whether they will prove right or not; they are ſuch men as Col: <hi>Goring</hi> is; the people are in great fear of them, and wiſh that the Earl of <hi>Pembroke</hi> were come, and that they might Muſter, &amp;c.</p>
+            <closer>
+               <dateline>
+                  <date>15. <hi>August:</hi> 1642.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>17 <hi>Auguſti,</hi> 1642.</date>
+               </dateline>
+            </opener>
+            <p>ORdered that this Letter ſhall be forthwith Printed and publiſhed.</p>
+            <closer>
+               <signed>H. Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
